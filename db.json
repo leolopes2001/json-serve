@@ -1,0 +1,94 @@
+{
+  "albuns": [
+    {
+      "id": 1,
+      "title": "Minha Viagem a Paris",
+      "description": "Explorando a deslumbrante cidade de Paris, mergulhando na rica história e na cultura vibrante. Ao fundo, a icônica Torre Eiffel se ergue majestosamente contra o céu azul, uma obra-prima da engenharia e um símbolo inconfundível da Cidade Luz. Passeamos pelas charmosas ruas de paralelepípedos, saboreando croissants frescos em cafés pitorescos e maravilhando-nos com a arquitetura magnífica, dos elegantes Champs-Élysées à grandiosa Notre-Dame. Paris, com sua atmosfera romântica e seu legado artístico, deixou uma impressão duradoura em nossos corações, uma cidade que nunca esqueceremos.",
+      "location": "Paris",
+      "register_date": "12/07/2007",
+      "latitude": 48.8566,
+      "longitude": 2.3522,
+      "url": "paris.jpg",
+      "photos": [
+        "paris-1.jpg",
+        "paris-2.avif",
+        "paris-3.webp"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Minha Viagem a Nova York",
+      "description": "Explorando a cidade que nunca dorme, Nova York, uma metrópole de infinitas possibilidades. Diante da imponente silhueta dos arranha-céus, capturamos a vista icônica do Empire State Building, que se eleva majestosamente sobre a agitação da cidade. Caminhamos pelas ruas movimentadas, absorvendo a energia contagiante de Times Square e desfrutando de passeios relaxantes pelo sereno Central Park. De museus de classe mundial, como o MoMA, à atmosfera única do bairro de Brooklyn, cada canto da cidade revela uma história e uma experiência únicas. Nova York é uma cidade que nunca deixa de surpreender, com sua diversidade cultural e a promessa de aventuras urbanas inesquecíveis.",
+      "location": "Nova York",
+      "register_date": "23/07/2002",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "url": "ny.jpg",
+      "photos": [
+        "ny-1.jpg",
+        "ny-2.jpg",
+        "ny-3.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Explorando as Praias do Havaí",
+      "description": "Uma jornada de descoberta pelas praias paradisíacas do Havaí nos levou a lugares de beleza inigualável. Ao som das ondas suaves, caminhamos pelas areias douradas da praia de Waikiki, com o sol beijando nossas peles. Testemunhamos a transformação do céu em tons de laranja e rosa em um pôr do sol inesquecível em Maui. Com os pés na água cristalina, exploramos as maravilhas submarinas, descobrindo a rica vida marinha. O Havaí, com sua natureza exuberante e seu espírito aloha, nos envolveu com sua serenidade e sua beleza selvagem, uma terra de aventuras e descobertas.",
+      "register_date": "02/03/2017",
+      "location": "Havaí",
+      "latitude": 21.3156,
+      "longitude": -157.858,
+      "url": "havai.jpg",
+      "photos": [
+        "havai-1.jpg",
+        "havai-2.jpg",
+        "havai-3.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Aventuras na Amazônia",
+      "description": "Em uma expedição corajosa pela selva exuberante da Amazônia, fomos envolvidos pela imensidão da floresta tropical. À beira do majestoso Rio Amazonas, sentimos a energia da natureza em sua forma mais pura. A floresta densa, com sua vegetação exuberante e vida selvagem exótica, revelou um mundo de biodiversidade único. Sob a sombra das árvores gigantes, ouvimos os sons da fauna oculta e nos maravilhamos com as cachoeiras escondidas que cortam a paisagem. A Amazônia, com sua vastidão e misticismo, nos ensinou a importância da preservação e nos conectou profundamente com a incrível diversidade da Terra.",
+      "register_date": "10/02/2019",
+      "location": "Amazônia",
+      "latitude": -3.4653,
+      "longitude": -62.2159,
+      "url": "amazonia.jpg",
+      "photos": [
+        "photo-amazonia-1.jpg",
+        "photo-amazonia-2.jpg",
+        "photo-amazonia-3.jpeg"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Explorando Roma",
+      "description": "Em uma jornada pelo coração da antiga Roma, exploramos as maravilhas da Cidade Eterna. Aqui, diante do imponente Coliseu, mergulhamos na grandiosidade da engenharia romana e imaginamos os épicos combates que ocorreram há séculos. Deambulamos pelas ruas de paralelepípedos, passando pela majestosa Fonte de Trevi, onde lançamos moedas e fizemos um pedido. Nas sombras do Panteão, contemplamos a história que se desenrolou sob sua cúpula perfeitamente preservada. Roma, com sua rica herança cultural e arquitetônica, deixou-nos fascinados, uma cidade onde o passado se funde harmoniosamente com o presente.",
+      "register_date": "17/08/1999",
+      "location": "Roma",
+      "latitude": 41.9028,
+      "longitude": 12.4964,
+      "url": "roma.jpg",
+      "photos": [
+        "photo-roma-2.jpg",
+        "photo-roma-1.jpg",
+        "photo-roma-3.jpeg"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Aventuras no Deserto do Saara",
+      "description": "Em uma jornada intrépida pelo Deserto do Saara, mergulhamos na vastidão dourada das dunas de areia que se estendem até onde os olhos podem ver. Durante o dia, enfrentamos o calor escaldante do sol, enquanto à noite, nos maravilhamos com um céu estrelado como nunca antes vimos. Em nosso acampamento, sob o manto das estrelas, compartilhamos histórias e experiências ao redor de uma fogueira, imersos na cultura e na hospitalidade dos habitantes nômades. As dunas imponentes e os panoramas deslumbrantes nos lembraram da grandiosidade e da diversidade da natureza, enquanto o silêncio do deserto ecoava em nossos corações como uma lição de humildade e contemplação.",
+      "register_date": "12/03/1995",
+      "location": "Saara",
+      "latitude": 25.276987,
+      "longitude": 8.484093,
+      "url": "saara.jpg",
+      "photos": [
+        "photo-saara-3.webp",
+        "photo-saara-2.jpeg",
+        "photo-saara-1.jpg"
+      ]
+    }
+  ]
+}
